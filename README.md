@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/ridho-fahrizal-95a060244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridho-fahrizal-95a060244" height="30" width="40" /></a>
 <a href="https://medium.com/@ridhofahrizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ridhofahrizal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/farizalridho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farizalridho" height="30" width="40" /></a>
+<a href="https://dev.to/ridho_fahrizal_71a2fbcf69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev.to.svg" alt="farizalridho" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
