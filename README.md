@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ridho Fahrizal</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Student**
+- 🔭 I’m currently working as a **Student**
 
 - 🌱 I’m currently learning **AI Engineering**
 
-- 👯 I’m looking to collaborate on **Student**
+- 👯 I’m looking to collaborate with other **Student**
 
 - 👨‍💻 All of my projects are available at [-](-)
 
