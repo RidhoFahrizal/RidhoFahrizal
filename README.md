@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://medium.com/@ridhofahrizal](https://medium.com/@ridhofahrizal)
 
-- ⚡ Fun fact **I'm overthinker**
+- ⚡ Fun fact **I Love Linux and Cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
