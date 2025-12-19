@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **AI Engineering**
 
-- 👯 I’m looking to collaborate with other **Student**
-
-- 👨‍💻 All of my projects are available at [-](-)
-
 - 📝 I regularly write articles on [https://medium.com/@ridhofahrizal](https://medium.com/@ridhofahrizal)
 
 - 💬 Ask me about **Laravel**
