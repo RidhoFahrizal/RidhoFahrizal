@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Student**
 
-- 🌱 I’m currently learning **Network and Cybersecurity**
+- 🌱 I’m currently learning **Network Engineering  and Cybersecurity**
 
 - 📝 I regularly write articles on [https://medium.com/@ridhofahrizal](https://medium.com/@ridhofahrizal)
 
