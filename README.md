@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridho Fahrizal</h1>
 <h3 align="center">A passionate Software Engineer from Indonesia</h3>
 
-- 🔭 I’m currently working as a **Student**
+- 🔭 I’m currently working as a **Software Engineer**
 
 - 🌱 I’m currently learning **Network Engineering  and Cybersecurity**
 
